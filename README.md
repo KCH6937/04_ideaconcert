@@ -19,9 +19,10 @@ AWS(EC2, Elastic IP), nginx를 사용한 서버 배포 프로젝트입니다!
 
 ## III. 사용 기술
 
-Backend : ![node](https://img.shields.io/badge/-node.js-sucsess) ![express](https://img.shields.io/badge/-express-gray)
+Backend :
+<img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=Node.js&logoColor=339933"/>&nbsp;<img src="https://img.shields.io/badge/Express-lightgray?style=flat&logo=Express&logoColor=#A8B9CC"/>
 
-DevOps : ![NGINX](https://img.shields.io/badge/-NGINX-0D974D) ![ec2](https://img.shields.io/badge/-AWS_EC2-FF9900)
+DevOps : <img src="https://img.shields.io/badge/AWS(EC2)-red?style=flat&logo=Amazon&logoColor=#A8B9CC"/>&nbsp;<img src="https://img.shields.io/badge/nginx-black?style=flat&logo=nginx&logoColor=339933"/>
 
 <br/><br/>
 
